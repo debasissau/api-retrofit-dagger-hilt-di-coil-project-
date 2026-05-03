@@ -3,6 +3,7 @@
 An Android app built using modern Android development tools and architecture.
 
 ---
+
 ## 📦 Download
 
 | Version | APK |
@@ -45,18 +46,27 @@ This project follows **MVVM (Model-View-ViewModel)** architecture.
 
 ```bash
 git clone https://github.com/debasissau/api-retrofit-dagger-hilt-di-coil-project-.git
+```
 
-2. Open in Android Studio
-
-3. Add your API key (if needed)
-
-4. Run the app 🚀
-
----
-
-## 💡 Learnings
-
-* Implemented clean architecture
-* Used Dependency Injection with Hilt
-* Handled API calls efficiently
-
+📦 Project Structure
+com.yourapp
+ ┣ 📂 data
+ ┃ ┣ 📂 remote
+ ┃ ┣ 📂 repository
+ ┣ 📂 di
+ ┣ 📂 ui
+ ┃ ┣ 📂 screen
+ ┃ ┣ 📂 viewmodel
+ ┣ 📂 utils
+ ┗ MainActivity.kt
+💡 Learnings
+Implemented MVVM architecture in real project
+Used Retrofit for API handling
+Applied Dependency Injection with Hilt
+Managed image loading using Coil
+Improved code modularity and scalability
+🛠️ Future Improvements
+Pagination support
+Offline caching (Room Database)
+Better UI/UX enhancements
+Dark mode support
