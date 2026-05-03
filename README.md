@@ -4,6 +4,13 @@
 An Android app built using modern Android development tools and architecture.
 
 ---
+## 📦 Download
+
+| Version | APK |
+|--------|-----|
+| v1.0 | [Download](https://github.com/your-username/repo/releases/download/v1.0/app-release.apk) |
+
+---
 
 ## 🚀 Tech Stack
 
