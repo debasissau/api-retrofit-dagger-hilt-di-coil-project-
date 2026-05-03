@@ -1,4 +1,3 @@
-﻿# api-retrofit-dagger-hilt-di-coil-project-
 # 📱 Retrofit + Hilt + Coil Android App
 
 An Android app built using modern Android development tools and architecture.
@@ -8,7 +7,7 @@ An Android app built using modern Android development tools and architecture.
 
 | Version | APK |
 |--------|-----|
-| v1.0 | [Download](https://github.com/your-username/repo/releases/download/v1.0/app-release.apk) |
+| v1.0 | [Download](https://github.com/debasissau/api-retrofit-dagger-hilt-di-coil-project-/releases/download/v1.0/api.with.hilt.apk) |
 
 ---
 
@@ -45,8 +44,8 @@ This project follows **MVVM (Model-View-ViewModel)** architecture.
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/repo-name.git
-   ```
+https://github.com/debasissau/api-retrofit-dagger-hilt-di-coil-project-.git
+  ```
 
 2. Open in Android Studio
 
