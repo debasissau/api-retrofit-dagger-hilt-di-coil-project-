@@ -43,9 +43,8 @@ This project follows **MVVM (Model-View-ViewModel)** architecture.
 
 1. Clone the repo:
 
-   ```bash
-https://github.com/debasissau/api-retrofit-dagger-hilt-di-coil-project-.git
-```
+```bash
+git clone https://github.com/debasissau/api-retrofit-dagger-hilt-di-coil-project-.git
 
 2. Open in Android Studio
 
