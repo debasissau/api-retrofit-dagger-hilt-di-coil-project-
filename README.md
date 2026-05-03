@@ -48,25 +48,20 @@ This project follows **MVVM (Model-View-ViewModel)** architecture.
 git clone https://github.com/debasissau/api-retrofit-dagger-hilt-di-coil-project-.git
 ```
 
-📦 Project Structure
-com.yourapp
- ┣ 📂 data
- ┃ ┣ 📂 remote
- ┃ ┣ 📂 repository
- ┣ 📂 di
- ┣ 📂 ui
- ┃ ┣ 📂 screen
- ┃ ┣ 📂 viewmodel
- ┣ 📂 utils
- ┗ MainActivity.kt
-💡 Learnings
-Implemented MVVM architecture in real project
-Used Retrofit for API handling
-Applied Dependency Injection with Hilt
-Managed image loading using Coil
-Improved code modularity and scalability
-🛠️ Future Improvements
-Pagination support
-Offline caching (Room Database)
-Better UI/UX enhancements
-Dark mode support
+##📦 Project Structure
+*com.yourapp
+* ┣ 📂 data
+* ┃ ┣ 📂 remote
+*┃ ┣ 📂 repository
+*┣ 📂 di
+* ┣ 📂 ui
+* ┃ ┣ 📂 screen
+*┃ ┣ 📂 viewmodel
+* ┣ 📂 utils
+* ┗ MainActivity.kt
+##💡 Learnings
+*Implemented MVVM architecture in real project
+*Used Retrofit for API handling
+*Applied Dependency Injection with Hilt
+*Managed image loading using Coil
+*Improved code modularity and scalability
